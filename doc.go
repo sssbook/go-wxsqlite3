@@ -5,6 +5,6 @@ This works as a driver for database/sql.
 
 Installation
 
-    go get github.com/Jathon-yang/go-wxsqlite3
+    go get github.com/aihanjiao/go-wxsqlite3
 */
 package sqlite3
