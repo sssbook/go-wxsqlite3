@@ -1,6 +1,6 @@
 # 背景
 
-> fork form github.com/Jathon-yang/go-wxsqlite3
+> fork from github.com/Jathon-yang/go-wxsqlite3
 
 因为项目用的是System.Data.SQLite实现的加密，所以fork了原库并修复了build bug。
 
@@ -19,6 +19,7 @@
 
 ```go
 import (
+    "database/sql"
     _ "github.com/aihanjiao/go-wxsqlite3"
 )
 ```
