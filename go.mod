@@ -1,3 +1,3 @@
-module github.com/sssbool/go-wxsqlite3
+module github.com/sssbook/go-wxsqlite3
 
 go 1.12
